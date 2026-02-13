@@ -32,3 +32,4 @@ print(HOUSING_e.APARTMENT)         -- 1
 print(HOUSING_e.SHOP)              -- 10
 print(HOUSING_e.HIGHENDAPARTMENT)  -- 23
 print(HOUSING_e.NONEXISTENT)       -- nil
+```
